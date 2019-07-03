@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="etUser">User</string>
+    <string name="etPass">Password</string>
+    <string name="btnLogin">Login</string>
+
+</resources>
